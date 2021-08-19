@@ -26,10 +26,10 @@
 
 ## Book
 
-* [Dart Apprentice](00-book/Dart Apprentice First Edition.pdf)
-* [Quick Start Guide to Dart Programming](00-book/Quick Start Guide to Dart Programming Create High-Performance Applications for the Web and Mobile by Sanjib Sinha.pdf)
-* [Dart: Scalable Application Development](00-book/Dart Scalable Application Development (Learning Path) by Davy Mitchell Sergey Akopkokhyants Ivo Balbaert.pdf)
-* [Learning Dart - Second Edition](00-book/Learning Dart Second Edition by Ivo Balbaert and Dzenan Ridjanovic.pdf)
+* [Dart Apprentice](00-book/Dart%20Apprentice%20First%20Edition.pdf)
+* [Quick Start Guide to Dart Programming](00-book/Quick%20Start%20Guide%20to%20Dart%20Programming%20Create%20High-Performance%20Applications%20for%20the%20Web%20and%20Mobile%20by%20Sanjib%20Sinha.pdf)
+* [Dart: Scalable Application Development](00-book/Dart%20Scalable%20Application%20Development%20(Learning%20Path)%20by%20Davy%20Mitchell%20Sergey%20Akopkokhyants%20Ivo%20Balbaert.pdf)
+* [Learning Dart - Second Edition](00-book/Learning%20Dart%20Second%20Edition%20by%20Ivo%20Balbaert%20and%20Dzenan%20Ridjanovic.pdf)
 
 
 ## Course
