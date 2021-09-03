@@ -26,6 +26,7 @@
 
 ## Book
 
+* [Dart Complete Reference code with Andrea](00-book/Dart%20Complete%20Reference%20code%20with%20Andrea.pdf)
 * [Dart Apprentice](00-book/Dart%20Apprentice%20First%20Edition.pdf)
 * [Quick Start Guide to Dart Programming](00-book/Quick%20Start%20Guide%20to%20Dart%20Programming%20Create%20High-Performance%20Applications%20for%20the%20Web%20and%20Mobile%20by%20Sanjib%20Sinha.pdf)
 * [Dart: Scalable Application Development](00-book/Dart%20Scalable%20Application%20Development%20(Learning%20Path)%20by%20Davy%20Mitchell%20Sergey%20Akopkokhyants%20Ivo%20Balbaert.pdf)
