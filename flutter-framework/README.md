@@ -87,6 +87,6 @@
 * [Flutter Super Declarative - YouTube](https://www.youtube.com/c/SuperDeclarative/playlists)
 * [Flutter - Stack Secrets](https://stacksecrets.com/flutter)
 * [Flutter Roadmap - Olexale](https://github.com/olexale/flutter_roadmap)
-* [Flutter Roadmap - Tarikul711](https://github.com/Tarikul711/flutter-development-roadmap)(https://harisbashir231.medium.com/flutter-roadmap-resource-guide-2021-c2ea56949ab0)
+* [Flutter Roadmap - Tarikul711](https://github.com/Tarikul711/flutter-development-roadmap)* [Flutter Roadmap & Resource Guide 2021 - Harisbashir](https://harisbashir231.medium.com/flutter-roadmap-resource-guide-2021-c2ea56949ab0)
 
 ## Content
