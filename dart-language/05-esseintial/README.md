@@ -26,7 +26,7 @@
 
 ### (2) Generic
 
-* TODO
+* TODO: [Generic](https://dart.dev/guides/language/language-tour#generics)
 
 
 ### (3) Exceptions
